@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Top right-pointing conversion arrow -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,42 L72,42 M62,33 L73,42 L62,51"
+        android:strokeWidth="5.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Center measurement ruler ticks -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,54 L42,54.1 M50,52.5 L50,55.5 M58,54 L58,54.1 M66,52.5 L66,55.5"
+        android:strokeWidth="3.5"
+        android:strokeColor="#87CFF9"
+        android:strokeLineCap="round" />
+
+    <!-- Bottom left-pointing conversion arrow -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M74,66 L36,66 M46,57 L35,66 L46,75"
+        android:strokeWidth="5.5"
+        android:strokeColor="#87CFF9"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
